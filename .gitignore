@@ -1,0 +1,7 @@
+/build/
+.project
+.cproject
+/.settings/
+*.o
+*.exe
+makefile
